@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```js
+const tere = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, SCSS],
+  tools: [React, Node, Express, Axios, Bootstrap, Passport],
+  database: "MongoDB",
+  askMeAbout: ["web dev", "tech", "dogs"],
+  currentOccupation: "open for job opportunities",
+}
+```
 <!--
 **mttorrente/mttorrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
