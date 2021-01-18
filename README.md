@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![me](https://user-images.githubusercontent.com/67802072/104941812-d73c3f80-59b3-11eb-91f4-db88d8b61e94.png)
+
 ```js
 const tere = {
   pronouns: "she" | "her",
