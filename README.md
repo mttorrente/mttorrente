@@ -59,6 +59,7 @@ const tere = {
 ## Github stats✨ :
 
 ![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&count_private=true&theme=dracula)
+![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&count_private=true&theme=highcontrast)
 
 
 
