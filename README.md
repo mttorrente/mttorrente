@@ -20,16 +20,6 @@ const tere = {
 ```
 <br><hr><br>
 
-## You can find me 🌍 :
-
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/maria-teresa-torrente-ochovo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/mttorrente_o"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="mailto:mttorrente.o@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
-
-<br>
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 🛠 :
 
 <p align="left">
@@ -69,6 +59,18 @@ const tere = {
 ## Github stats✨ :
 
 ![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)
+
+<br>
+
+## You can find me 🌍 :
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/maria-teresa-torrente-ochovo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-                              badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://twitter.com/mttorrente_o"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:mttorrente.o@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
+
+<br>
 
 <br><hr><br>
 
