@@ -6,6 +6,8 @@
 
 <br><hr><br>
 
+## About me in code </>:
+
 ```js
 const tere = {
   pronouns: "she" | "her",
@@ -18,7 +20,7 @@ const tere = {
 ```
 <br><hr><br>
 
-Yoy can find me 🌍 :
+## You can find me 🌍 :
 - [LinkedIn](https://www.linkedin.com/in/maria-teresa-torrente-ochovo/)
 - [Twitter](https://twitter.com/mttorrente_o)
 - mttorrente.o@gmail.com
