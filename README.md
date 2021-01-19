@@ -74,7 +74,7 @@ const tere = {
 
 <br><hr><br>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3 align="center">🤩 Thanks for Stopping by!! 😊</h3>
 
 <!--
 **mttorrente/mttorrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
