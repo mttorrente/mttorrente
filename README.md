@@ -26,6 +26,8 @@ const tere = {
 - [Twitter](https://twitter.com/mttorrente_o)
 - mttorrente.o@gmail.com
 
+<br>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 🛠 :
 
 <p align="left">
@@ -57,9 +59,8 @@ const tere = {
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"        width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
-      
-<br>
+    
+<br><hr><br>
 
 <h3>Thanks for Stopping by!! 😊</h3>
 
