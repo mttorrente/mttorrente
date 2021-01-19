@@ -10,7 +10,7 @@
 const tere = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Node, Express, Axios, Bootstrap, Passport],
+  tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Heroku, Postman, Git, Github, Slack],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
   currentOccupation: "open for job opportunities",
@@ -36,7 +36,6 @@ Yoy can find me 🌍 :
 <div align = "center">
 
 ![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&theme=radical)
-
 
 <hr>
 
