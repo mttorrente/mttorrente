@@ -58,7 +58,7 @@ const tere = {
 
 ## Github stats✨ :
 
-![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)
+![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&count_private=true&theme=cobalt)
 
 <br>
 
