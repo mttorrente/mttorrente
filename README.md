@@ -62,6 +62,12 @@ const tere = {
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
+<br>
+
+## Github stats✨ :
+
+![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&include_all_commits=true&theme=radical)
+
 <br><hr><br>
 
 <h3>Thanks for Stopping by!! 😊</h3>
