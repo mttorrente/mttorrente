@@ -16,6 +16,7 @@ const tere = {
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
   currentOccupation: "open for job opportunities",
+  education: ["Ironhack", "UAB"],
 }
 ```
 <br><hr><br>
