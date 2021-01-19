@@ -12,6 +12,11 @@ const tere = {
   currentOccupation: "open for job opportunities",
 }
 ```
+Yoy can find me 🌍 :
+- [LinkedIn](https://www.linkedin.com/in/maria-teresa-torrente-ochovo/)
+- [Twitter](https://twitter.com/mttorrente_o)
+- mttorrente.o@gmail.com
+
 <!--
 **mttorrente/mttorrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
