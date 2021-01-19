@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+<br>
+
 ![me](https://user-images.githubusercontent.com/67802072/104941812-d73c3f80-59b3-11eb-91f4-db88d8b61e94.png)
 
 <br><hr><br>
@@ -30,6 +32,17 @@ Yoy can find me 🌍 :
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+<div align = "center">
+
+![mttorrente's github stats](https://github-readme-stats.vercel.app/api?username=mttorrente&show_icons=true&theme=radical)
+
+
+<hr>
+
+</div>
+
+<h3>Thanks for Stopping by!! 😊</h3>
 
 <!--
 **mttorrente/mttorrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
