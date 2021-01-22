@@ -12,7 +12,7 @@
 const tere = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack...],
+  tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
   currentOccupation: "open for job opportunities",
