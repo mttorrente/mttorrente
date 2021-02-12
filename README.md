@@ -15,6 +15,7 @@ const tere = {
   tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
+  learning:["angular", "typescript"],
   currentOccupation: "open for job opportunities",
   education: ["Ironhack", "UAB"],
 }
