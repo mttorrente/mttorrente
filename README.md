@@ -15,7 +15,7 @@ const tere = {
   tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
-  learning:["angular", "typescript"],
+  learning:["angular", "typescript", "jest", "docker", "kubernetes"],
   currentOccupation: "open for job opportunities",
   education: ["Ironhack", "UAB"],
 }
@@ -49,6 +49,7 @@ const tere = {
 ##  Learning About📚 :
 
 <p align="left">
+  <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"            height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"              alt="typescript" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
