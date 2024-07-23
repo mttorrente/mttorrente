@@ -12,7 +12,7 @@
 const tere = {
   pronouns: "she" | "her",
   code: [Java, Javascript, HTML, CSS, SCSS],
-  tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack],
+  tools: [SpringBoot, React, Node , Service now, Datadog, AzureDevOps, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
   currentOccupation: "Custom Software Engineering Analyst at Accenture",
