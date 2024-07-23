@@ -11,12 +11,11 @@
 ```js
 const tere = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, SCSS],
+  code: [Java, Javascript, HTML, CSS, SCSS],
   tools: [React, Node, Express, Axios, Bootstrap, Passport, Canvas, Handlebars, Postman, Git, Slack],
   database: "MongoDB",
   askMeAbout: ["web dev", "tech", "dogs"],
-  learning:["angular", "typescript", "jest", "docker", "kubernetes"],
-  currentOccupation: "open for job opportunities",
+  currentOccupation: "Custom Software Engineering Analyst at Accenture",
   education: ["Ironhack", "UAB"],
 }
 ```
